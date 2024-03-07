@@ -34,6 +34,7 @@
 Ну, попробуем прочитать его с поместьююю *кошка* 
 
 ![izobrageniee](https://github.com/BlankGODDAMN/calculator_codeby-writeup/assets/162637113/faefeec3-d463-4668-9e37-d4e2ac9ccd4b)
+
 ![izobrageniee](https://github.com/BlankGODDAMN/calculator_codeby-writeup/assets/162637113/296957e1-ce55-4ec4-8aa4-619c6eae9c40)
 
 Среди всего поточенного языка находития наш флаг, думаю найти его не сложно.
